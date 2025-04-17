@@ -29,4 +29,4 @@ Hopkins Statistics, Elbow Method, k-means Clustering, Agglomerative Clustering
 ### Results
 Got 6 Clusters using k-means and 5 clusters using agglomerative.
 
-clusters using k-means are and clusters using agglomerative clustering are very similar.
+Clusters using k-means and clusters using agglomerative clustering are very similar and coherent.
